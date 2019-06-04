@@ -1,0 +1,12 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "chapter 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "\"msg\" : \"node myFunction.js\"",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

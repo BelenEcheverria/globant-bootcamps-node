@@ -1,0 +1,17 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Chapter 3",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Belen",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "logger": "0.0.1",
+    "uuid": "^3.3.2"
+  }
+}
